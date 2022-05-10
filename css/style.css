@@ -544,7 +544,7 @@ main {
   text-decoration: none;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 475px) {
   .card {
     max-width: 325px;
     min-height: 550px;
